@@ -1,0 +1,27 @@
+
+body {
+  margin: 0;
+}
+
+.topBox {
+  background-color: #E4F9F5;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.middleBox {
+  margin: 20px;
+  background-color: red;
+}
+
+.buttomBox {
+  margin: 20px;
+  background-color: blue
+}
+
+.head {
+  margin-top: 0;
+}
